@@ -1,1 +1,3 @@
-# DeapLearningZeroToAll_Study
+# 밑바닥부터 시작하는 딥러닝 시즌1
+
+김성훈 교수님의 밑바닥부터 시작하는 tensorflow 딥러닝 코드 모음
